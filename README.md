@@ -1,4 +1,4 @@
-# AngularAnimals
-This is  an ANGULAR Web API Sample
+# This is  an ANGULAR Web API Sample
+
 
 
